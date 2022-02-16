@@ -1,0 +1,3 @@
+Clase Aplicacion
+
+metodo input-> recibe como parametro un String y lo imprime en pantalla. Ademas, retorna una cadena de caracteres enviada por el usuario

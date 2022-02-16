@@ -1,0 +1,4 @@
+
+Nombre Cliente: A. Dirección cliente: A. ID: 0.
+Nombre: combo corral con frijol refrito sin lechuga. Precio neto: 26550. IVA: 5044. Descuento: 0.1. Precio total: 31594.
+Precio neto: 26550$. Precio iva: 5044$. Precio total: 31594$.
